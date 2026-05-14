@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantheConnect</string>
+    <string name="map_tab">Discover</string>
+    <string name="calendar_tab">Calendar</string>
+    <string name="reviews_tab">Reviews</string>
+    <string name="add_vendor">Add Vendor</string>
+    <string name="capture_gps">Capture GPS Location</string>
+    <string name="no_markets_today">No markets today. Check another day! 🌾</string>
+    <string name="no_reviews_yet">No reviews yet. Be the first! 🌟</string>
+    <string name="copyright">© 2026 Hitesh S.</string>
+    <string name="app_tagline">Discover Karnataka\'s Hidden Gems</string>
+    <string name="transcribing">Processing with Gemini AI…</string>
+    <string name="recording">Recording… (max 60s)</string>
+    <string name="dashboard_tab">Dashboard</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+</resources>

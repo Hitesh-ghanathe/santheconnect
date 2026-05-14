@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SantheConnect" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ochre</item>
+        <item name="colorPrimaryVariant">@color/ochre_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/olive_green</item>
+        <item name="colorSecondaryVariant">@color/olive_green_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/cream</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="android:statusBarColor">@color/ochre</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Global Text Colors -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:editTextColor">@color/black</item>
+        <item name="android:textColorHint">#888888</item>
+    </style>
+
+    <style name="Theme.SantheConnect.Splash" parent="Theme.SantheConnect">
+        <item name="android:windowBackground">@color/ochre</item>
+        <item name="android:statusBarColor">@color/ochre</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.SantheConnect.NoActionBar" parent="Theme.SantheConnect">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="CalendarDateText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="CalendarWeekDayText">
+        <item name="android:textColor">@color/ochre_dark</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

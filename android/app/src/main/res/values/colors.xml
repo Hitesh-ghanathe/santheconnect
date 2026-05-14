@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors (from blueprint) -->
+    <color name="ochre">#ECAC2F</color>
+    <color name="ochre_dark">#B8831A</color>
+    <color name="cream">#FAF5ED</color>
+    <color name="olive_green">#85B24C</color>
+    <color name="olive_green_dark">#4A6B22</color>
+    <color name="olive_green_light">#D4E8B4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Navigation tints -->
+    <color name="nav_selected">#ECAC2F</color>
+    <color name="nav_unselected">#9E9E9E</color>
+</resources>
