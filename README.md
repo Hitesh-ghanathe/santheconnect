@@ -263,6 +263,8 @@ This project is for educational purposes. Feel free to use it as reference for y
 - [Coil](https://coil-kt.github.io/coil/) — Image loading
 - [Material Design 3](https://m3.material.io/) — UI components and theming
 
----
+Developed By
 
-*Made with ☕ and Kotlin — SantheConnect Team*
+Hitesh S Ghanathe
+VTU Internship Project – MindMatrix
+Santhe-Connect: Local Flavor Discovery App
