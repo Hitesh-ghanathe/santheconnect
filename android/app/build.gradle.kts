@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.abhi.santheconnect"
+    namespace = "com.hitesh.santheconnect"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.abhi.santheconnect"
+        applicationId = "com.hitesh.santheconnect"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

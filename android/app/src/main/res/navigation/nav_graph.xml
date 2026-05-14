@@ -6,31 +6,31 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.abhi.santheconnect.ui.home.HomeFragment"
+        android:name="com.hitesh.santheconnect.ui.home.HomeFragment"
         android:label="SantheConnect" />
 
     <fragment
         android:id="@+id/mapFragment"
-        android:name="com.abhi.santheconnect.ui.map.MapFragment"
+        android:name="com.hitesh.santheconnect.ui.map.MapFragment"
         android:label="Discover" />
 
     <fragment
         android:id="@+id/calendarFragment"
-        android:name="com.abhi.santheconnect.ui.calendar.CalendarFragment"
+        android:name="com.hitesh.santheconnect.ui.calendar.CalendarFragment"
         android:label="Santhe Calendar" />
 
     <fragment
         android:id="@+id/reviewWallFragment"
-        android:name="com.abhi.santheconnect.ui.reviews.ReviewWallFragment"
+        android:name="com.hitesh.santheconnect.ui.reviews.ReviewWallFragment"
         android:label="Review Wall" />
 
     <fragment
         android:id="@+id/chatFragment"
-        android:name="com.abhi.santheconnect.ui.chat.ChatFragment"
+        android:name="com.hitesh.santheconnect.ui.chat.ChatFragment"
         android:label="AI Assistant" />
 
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.abhi.santheconnect.ui.profile.ProfileFragment"
+        android:name="com.hitesh.santheconnect.ui.profile.ProfileFragment"
         android:label="User Dashboard" />
 </navigation>
